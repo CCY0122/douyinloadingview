@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DYLoadingView">
+        <attr name="radius1" format="dimension"/>
+        <attr name="radius2" format="dimension"/>
+        <attr name="rtlScale" format="float"/>
+        <attr name="ltrScale" format="float"/>
+        <attr name="color1" format="color"/>
+        <attr name="color2" format="color"/>
+        <attr name="mixColor" format="color"/>
+        <attr name="duration" format="integer"/>
+        <attr name="pauseDuration" format="integer"/>
+        <attr name="gap" format="dimension"/>
+        <attr name="scaleStartFraction" format="float"/>
+        <attr name="scaleEndFraction" format="float"/>
+    </declare-styleable>
+</resources>
