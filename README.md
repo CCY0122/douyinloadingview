@@ -14,7 +14,7 @@
 
 
 1、xml引用：
-```
+```xml
         <com.douyinloadingview.DYLoadingView
             android:id="@+id/dy3"
             android:layout_width="match_parent"
@@ -25,7 +25,7 @@
             app:....（其他可选属性） /> 
 ```
 2、java使用：
-```
+```java
 	@BindView(R.id.dy1)
     DYLoadingView dy1;
 
